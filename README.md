@@ -1,2 +1,5 @@
-# 12th-english
-12th English Text Book
+## Dev
+
+```sh
+hugo server --ignoreCache --themesDir ../
+```
