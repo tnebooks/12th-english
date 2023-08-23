@@ -11,13 +11,13 @@ Match’d with an aged wife, I mete and dole
 Unequal laws unto a savage race,
 
 That hoard, and sleep, and feed, and know not me.
-I cannot rest from travel: I will drink
-Life to the lees: All times I have enjoy’d
+I cannot rest from travel: I will **drink**
+**Life to the lees**: All times I have enjoy’d
 Greatly, have suffer’d greatly, both with those
 
 That loved me, and alone, on shore, and when
-Thro’ scudding drifts the rainy Hyades
-Vext the dim sea: I am become a name;
+Thro’ **scudding** drifts the rainy **Hyades**
+**Vext** the dim sea: I am become a name;
 For always roaming with a hungry heart
 
 Much have I seen and known; cities of men
@@ -32,7 +32,7 @@ Gleams that untravell’d world whose margin fades
 
 For ever and forever when I move.
 How dull it is to pause, to make an end,
-To rust unburnish’d, not to shine in use!
+**To rust unburnish’d**, not to shine in use!
 As tho’ to breathe were life! Life piled on life 
 
 Were all too little, and of one to me
@@ -40,12 +40,12 @@ Little remains: but every hour is saved
 From that eternal silence, something more,
 A bringer of new things; and vile it were 
 
-For some three suns to store and hoard myself,
+For some **three suns** to store and hoard myself,
 And this gray spirit yearning in desire
 To follow knowledge like a sinking star,
 Beyond the utmost bound of human thought.
 
-This is my son, mine own Telemachus,
+This is my son, mine own **Telemachus**,
 To whom I leave the sceptre and the isle, -
 Well-loved of me, discerning to fulfil
 This labour, by slow prudence to make mild
@@ -76,14 +76,14 @@ The long day wanes: the slow moon climbs: the deep
 Moans round with many voices. Come, my friends,
 
 ‘T is not too late to seek a newer world.
-Push off, and sitting well in order smite
-The sounding furrows; for my purpose holds
-To sail beyond the sunset, and the baths 
+Push off, and sitting well in order **smite**
+The sounding **furrows**; for my purpose holds
+To sail beyond the sunset, and the **baths** 
 
 Of all the western stars, until I die.
 It may be that the gulfs will wash us down:
-It may be we shall touch the Happy Isles,
-And see the great Achilles, whom we knew.
+It may be we shall touch the **Happy Isles**,
+And see the great **Achilles**, whom we knew.
 
 Tho’ much is taken, much abides; and tho’
 We are not now that strength which in old days
@@ -98,6 +98,7 @@ To strive, to seek, to find, and not to yield.
 Alfred Tennyson, 1st Baron Tennyson (6 August 1809 – 6 October 1892) was a British poet. He was the Poet Laureate of Great Britain and Ireland during much of Queen Victoria’s reign and remains one of the most popular British poets. Tennyson excelled at penning short lyrics, such as “Break, Break, Break”, “The Charge of the Light Brigade”, “Tears, Idle Tears”, and “Crossing the Bar”. He wrote verses on classical mythology such as Ulysses, Idylls of the King and Tithonus. Tennyson’s use of the musical qualities of words to emphasise his rhythms and meanings is sensitive. 
 
 ## Glossary
+
 **drink life to the lees** – drink to the very last drop; here ‘live life to the fullest’ 
 **scudding** – moving rapidly because of the wind 
 **Hyades** – a group of stars in the constellation Taurus often associated with rain 
