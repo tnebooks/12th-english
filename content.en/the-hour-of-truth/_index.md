@@ -1,6 +1,6 @@
 ---
-title: 'Hello'
-weight: 1
+title: 'The Hour of Truth (Play)'
+weight: 9
 ---
 
 Here is a play which describes a situation where the honesty and uprightness of the protagonist is put to a crucial test. He is compelled by his family members to compromise on his ethical principles. Let’s find out how he is saved from that crisis.

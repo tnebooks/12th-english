@@ -1,6 +1,6 @@
 ---
-title: 'Hello'
-weight: 1
+title: 'The Midnight Visitor'
+weight: 12
 ---
 
 Sometimes appearances can be deceptive, as in the case of Ausable, a secret agent, who despite his common looks, with his resourcefulness and presence of mind outwits a deadly criminal. Read the story to see how this happened. 

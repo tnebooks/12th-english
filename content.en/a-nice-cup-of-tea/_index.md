@@ -1,6 +1,6 @@
 ---
-title: 'Hello'
-weight: 1
+title: 'A Nice Cup of Tea'
+weight: 4
 ---
 
 Read the following essay in which George Orwell highlights the distinctive features of preparing a nice cup of tea.

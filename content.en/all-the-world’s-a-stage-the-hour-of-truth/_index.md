@@ -1,6 +1,6 @@
 ---
-title: 'Hello'
-weight: 1
+title: 'All the World’s a Stage'
+weight: 8
 ---
 
 First, listen to a reading of the complete poem. Then, read silently and get to know what Shakespeare says about the different stages in the life of man.You may refer to the glossary given at the end of the monologue to help you.

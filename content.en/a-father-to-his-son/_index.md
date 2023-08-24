@@ -1,6 +1,6 @@
 ---
-title: 'Hello'
-weight: 1
+title: 'A Father to his Son'
+weight: 14
 ---
 
 A father sees his son nearing manhood.

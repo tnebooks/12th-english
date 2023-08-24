@@ -1,6 +1,6 @@
 ---
-title: 'Hello'
-weight: 1
+title: 'God Sees the Truth but Waits'
+weight: 3
 ---
 
 

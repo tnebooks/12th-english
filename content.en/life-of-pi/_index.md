@@ -1,6 +1,6 @@
 ---
-title: 'Hello'
-weight: 1
+title: 'Life of Pi'
+weight: 6
 ---
 
 Here is an abridged version of the famous Canadian  fantasy adventure novel titled Life of Pi by Yann Martel  published in 2001. The protagonist is Piscine Molitor "Pi" Patel, an Indian boy from  Pondicherry. He survives 227 days after a shipwreck while stranded on a lifeboat in the Pacific Ocean with a  Bengal tiger  named Richard Parker.

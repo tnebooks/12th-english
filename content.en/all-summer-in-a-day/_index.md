@@ -1,6 +1,6 @@
 ---
-title: 'Hello'
-weight: 1
+title: 'All Summer in a Day'
+weight: 15
 ---
 
 Can you imagine a day without the Sun? Here is a Science Fiction Story that explores the theme of life on Venus, the other Planet, which as of today is not a possibility.

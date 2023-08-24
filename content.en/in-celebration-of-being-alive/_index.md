@@ -1,6 +1,6 @@
 ---
-title: 'Hello'
-weight: 1
+title: 'In Celebration of Being Alive'
+weight: 7
 ---
 
 We all know that Dr. Christiaan Barnard was the first doctor to perform a heart transplant surgery. Here we have an extract of his speech, wherein he narrates an experience, which has changed his perspective of life altogether. Let’s find out what led to such a dramatic transformation.

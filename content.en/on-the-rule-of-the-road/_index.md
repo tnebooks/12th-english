@@ -1,6 +1,6 @@
 ---
-title: 'Hello'
-weight: 1
+title: 'On the Rule of the Road'
+weight: 16
 ---
 
 A stout old lady was walking with her basket down the middle of a street in Petrograd to the great **confusion** of the traffic and with no small **peril** to herself. It was pointed out to her that the pavement was the place for **pedestrians**, but she replied: 'I'm going to walk where I like. We've got liberty now.' It did not occur to the dear old lady that if liberty entitled the pedestrian to walk down the middle of the road, then the end of such liberty would be universal **chaos**.

@@ -1,6 +1,6 @@
 ---
-title: 'Hello'
-weight: 1
+title: 'Remember Caesar (Play)'
+weight: 18
 ---
 
 Here is the play that revolves around the ides of March ( i.e 15th of March the day Julius Caesar was assassinated). The play “Remember Caesar” is about a pompous and proud judge who fears a life threat after he discovers a message** ‘Remember Caesar’** scribbled on a piece of paper in his pocket. He exhorts his assistant Roger to remain alert to foil the possible attempt of the assassins. He is panic-stricken and makes his assistant engage in elaborate precautionary measures. Let us read the play to know whether Lord WESTON and Roger thwart the attempt or not.
