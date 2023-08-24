@@ -3,6 +3,8 @@ title: 'The Midnight Visitor'
 weight: 12
 ---
 
+# The Midnight Visitor
+
 Sometimes appearances can be deceptive, as in the case of Ausable, a secret agent, who despite his common looks, with his resourcefulness and presence of mind outwits a deadly criminal. Read the story to see how this happened. 
 
 AUSABLE did not fit any description of a secret agent Fowler had ever read. Following him down the **musty** corridor of the gloomy French hotel where Ausable had a room, Fowler felt let down. It was a small room, on the sixth and top floor, and scarcely a setting for a romantic adventure. Ausable was, for one thing, fat. Very fat. And then there was his accent. Though he spoke French and German passably, he had never altogether lost the American accent he had brought to Paris from Boston twenty years ago. “You are disappointed,” Ausable said **wheezily** over his shoulder. “You were told that I was a secret agent, a spy, dealing in **espionage** and danger. You wished to meet me because you are a writer, young and romantic. You envisioned mysterious figures in the night, the crack of pistols, drugs in the wine. “Instead, you have spent a dull evening in a French music hall with a **sloppy** fat man who, instead of having messages slipped into his hand by dark-eyed beauties, gets only a **prosaic** telephone call making an appointment in his room. You have been bored!” The fat man chuckled to himself as he unlocked the door of his room and stood aside to let his frustrated guest enter. “You are disillusioned,” Ausable told him. “But take cheer, my young friend. Presently you will see a paper, a quite important paper for which several men and women have risked their lives, come to me. Some day soon that paper may well affect the course of history. In that thought is drama, is there not?” As he spoke, Ausable closed the door behind him. Then he switched on the light. And as the light came on, Fowler had his first authentic thrill of the day. For halfway across the room, a small automatic pistol in his hand, stood a man. 
@@ -24,10 +26,17 @@ Robert Jay Arthur Jr. (November 10, 1909 – May 2, 1969) was a writer of specul
 ## Glossary
 
 **musty**- having a stale smell 
+
 **wheezily** - with a hissing sound while breathing 
+
 **espionage** - the practice of spying to obtain information
+
 **sloppy** - careless and unsystematic 
+
 **prosaic** - ordinary, usual 
+
 **inflection** - modulation, intonation 
+
 **sill** - a slab of wood or stone at the foot of a window opening or doorway 
+
 **deftly** - skillfully

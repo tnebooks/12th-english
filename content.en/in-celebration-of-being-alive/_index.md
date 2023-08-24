@@ -3,6 +3,8 @@ title: 'In Celebration of Being Alive'
 weight: 7
 ---
 
+# In Celebration of Being Alive
+
 We all know that Dr. Christiaan Barnard was the first doctor to perform a heart transplant surgery. Here we have an extract of his speech, wherein he narrates an experience, which has changed his perspective of life altogether. Let’s find out what led to such a dramatic transformation.
 
 1. More and more, as I near the end of my career as a heart surgeon, my thoughts have turned to the **consideration** of why people should suffer. Suffering seems so cruelly **prevalent** in the world today. Do you know that of the 125 million children born this year, 12 million are unlikely to reach the age of one and another six million will die before the age of five? And, of the rest, many will end up as mental or physical **cripples**.
@@ -38,21 +40,39 @@ Christiaan Neethling Barnard was born in rural South Africa in 1922 to poor pare
 
 ## Glossary
 
+
 **consideration** – careful thought 
+
 **prevalent** – common 
+
 **cripples** – people with some disability preventing them from performing certain normal functions 
+
 **agony** – extreme physical and mental suffering 
+
 **perforated** – torn and damaged with holes 
+
 **ennobles** – (figurative use) makes dignified, morally noble 
+
 **thrash around (idiom) ** – to move about restlessly 
+
 **sophisticated** – (here) well-advanced 
+
 **mutilating surgery** – surgery involving removal of tissue even at the risk of worsening of the patient’s condition 
+
 **Grand Prix** – (here) one of several international motorracing events 
+
 **solace** – comfort or consolation in times of grief or pain 
+
 **intrepid** – bold and daring 
+
 **finale** – climax or an exciting end 
+
 **disfigured** – spoiled or marred in appearance 
+
 **malignant** – (here, of diseases) very harmful to life 
+
 **tumour** – diseased growth in some part of the body 
+
 **amputated** – cut off by surgical operation 
+
 **profound** – very great

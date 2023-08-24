@@ -3,6 +3,8 @@ title: 'A Nice Cup of Tea'
 weight: 4
 ---
 
+# A Nice Cup of Tea
+
 Read the following essay in which George Orwell highlights the distinctive features of preparing a nice cup of tea.
 
 If you look up ‘tea’ in the first cookery book that comes to hand you will probably find that it is unmentioned; or at most you will find a few lines of sketchy instructions which give no ruling on several of the most important points.
@@ -45,16 +47,29 @@ Eric Arthur Blair (25 June 1903–21 January 1950), better known by his pen name
 
 ## Glossary
 
+
 **curious** - interesting 
+
 **controversial** - arguable, disputable 
+
 **virtues** - admirable qualities 
+
 **despised**- hated 
+
 **stimulation** - excitement 
+
 **optimistic** - positive, hopeful 
+
 **cauldron**- a big pot used for boiling 
+
 **rationing**- restricting the consumption of a scarce commodity during war 
+
 **dangling** - hanging freely, suspended
+
 **spout** - the pipe-like opening in a teapot through which tea is poured out 
+
 **liable** - responsible 
+
 **mysterious**- incomprehensible 
+
 **etiquette** - socially acceptable behaviour

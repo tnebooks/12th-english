@@ -3,6 +3,7 @@ title: 'The Summit'
 weight: 10
 ---
 
+# The Summit
 
 This prose unit is a slightly adapted excerpt from ‘The Ascent of Everest’ by John Hunt.
 
@@ -60,12 +61,19 @@ Sir Edmund Percival Hillary (20 July 1919 – 11 January 2008) was a New Zealand
 ## Glossary
 
 **traverse** - to cross a mountain slope horizontally or diagonally; the name given to such a crossing 
+
 **rope** - links members of climbing party for safety; a party may be referred to as “a rope” 
+
 **cornice** - overhanging mass of snow or ice along a ridge, shaped like the curling crest of a wave
+
 **cwm** - an enclosed arm-chair shaped hollow situated at the head of a valley 
+
 **scrambling** - climbing hurriedly on hands and knees 
+
 **wriggle** - to move with a twist or turn 
+
 **tantalize** - tease or taunt 
+
 **cramponed** - climbing on ice wearing spike shoes
 
  

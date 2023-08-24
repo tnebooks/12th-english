@@ -3,6 +3,7 @@ title: 'God Sees the Truth but Waits'
 weight: 3
 ---
 
+# God Sees the Truth but Waits
 
 Here is a story about faith, forgiveness, freedom and acceptance of a young merchant named Aksionov, who was sent to prison for a crime he didn’t commit.
 
@@ -159,16 +160,28 @@ Leo Tolstoy was born on September 9, 1828, in Tula Province, Russia. He is best 
 
 ## Glossary
 
+
 **go on a spree** - indulging in something actively in an unrestrained way 
+
 **porch** - portico 
+
 **samovar** - a Russian metal urn for making tea 
+
 **troika(in olden Russia)** - a cart pulled by a team of three horses
+
 **stammer** - to speak haltingly, fumble for words 
+
 **betray** - fail, let one down 
+
 **despair** - hopelessness 
+
 **downcast** - depressed flog - to beat with a whip or stick 
+
 **mirth** - cheerfulness 
+
 **sledge** - a vehicle pulled by horses for transportation on snow 
+
 **wretched** - dejected 
+
 **vengeance** - revenge
 

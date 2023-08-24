@@ -3,12 +3,15 @@ title: 'The Hour of Truth (Play)'
 weight: 9
 ---
 
+# The Hour of Truth (Play)
+
 Here is a play which describes a situation where the honesty and uprightness of the protagonist is put to a crucial test. He is compelled by his family members to compromise on his ethical principles. Let’s find out how he is saved from that crisis.
 
 ## CHARACTERS: 
-**ROBERT BALDWIN**
-**MARTHA** 
-**JOHN EVIE** 
+
+**ROBERT BALDWIN**\
+**MARTHA** \
+**JOHN EVIE**\
 **Mr. MARSHALL**
 
 It is rather a hot and sultry Sunday afternoon, and the sun overhead and the baked clay under foot are merciless. In the distance, lowering clouds give promise of coming relief. And at the parlour window of a trim little cottage the Baldwin family is anxiously awaiting the return of its head. 
@@ -487,25 +490,43 @@ Percival Wilde (1887 – 1953) was an American author and playwright. He wrote n
 
 ## Glossary
 
+
 **wrecking** - ruining, destroying (here, bankruptcy) 
+
 **indict** - accuse or charge someone for a crime and put on trial 
+
 **testify** - give evidence as a witness in court 
+
 **governor** - the way John addresses his father 
+
 **go on the stand** - testify during a trial in the court of law 
+
 **smash-up** - complete collapse (insolvency) 
+
 **indignantly** - angrily 
+
 **perjure** - swear falsely 
+
 **haggle** - argue, disagree 
+
 **reckoned** - calculated 
+
 **misappropriate** - to take other’s money dishonestly for one’s own use 
+
 **nonplussed** - confused, puzzled 
+
 **baptized** - named, christened of his own 
+
 **accord** - voluntarily, without compulsion 
+
 **technicality** - a minor detail 
+
 **shams** - people who cheat others 
+
 **hypocrites** - people who put on a false appearance, pretenders 
+
 **apprehension** - fear 
+
 **buoyantly** - cheerfully 
+
 **piteously** - sympathetically
-
-

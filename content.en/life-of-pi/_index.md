@@ -3,6 +3,8 @@ title: 'Life of Pi'
 weight: 6
 ---
 
+# Life of Pi
+
 Here is an abridged version of the famous Canadian  fantasy adventure novel titled Life of Pi by Yann Martel  published in 2001. The protagonist is Piscine Molitor "Pi" Patel, an Indian boy from  Pondicherry. He survives 227 days after a shipwreck while stranded on a lifeboat in the Pacific Ocean with a  Bengal tiger  named Richard Parker.
 
 I was alone and orphaned, in the middle of the Pacific, hanging on to an oar, an adult tiger in front of me, sharks beneath me, a storm raging about me. Had I considered my prospects in the light of reason, I surely would have given up and let go of the oar, hoping that I might drown before being eaten. But I don’t recall that I had a single thought during those first minutes of relative safety. I didn’t even notice daybreak. I held on to the oar, I just held on, God only knows why?
@@ -67,19 +69,35 @@ I left Richard Parker in a jungle and waited for a ship. It pained me to see the
 Yann Martel was born in Spain to French Canadian parents. Martel’s father worked as a diplomat and the family moved to Costa Rica, France, Mexico and Canada during Martel’s childhood. He grew up speaking both French and English. Martel studied philosophy at Trent University in Ontario, and later spent a year in India visiting religious sisters and zoos. His first three books received little critical or popular attention but with the publication of Life of Pi in 2001, Martel became internationally famous and he was awarded the Man Booker Prize in 2002.
 
 ## Glossary
+
 **belch** - expel air noisily 
+
 **flotsam** - debris floating in a river or sea 
+
 **tarpaulin** - a heavy waterproof sheet 
+
 **incredible** - unbelievable 
+
 **conundrum** - a riddle 
+
 **asphyxiation** - death due to lack of oxygen 
+
 **putrid** - rotting 
+
 **guise** - pretence 
+
 **cauldron** - a large bowl or pot 
+
 **splinters** - a long sharp fragment of material, often wood
+
 **plausible** - probable, likely, 
+
 **unambiguous**- clear 
+
 **supplication** - a humble request, prayer 
+
 **glistened** - shone 
+
 **gunnel**- upper edge of the side of a boat 
+
 **gurgling** - a kind of sound when water is drunk fast

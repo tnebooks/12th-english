@@ -3,11 +3,16 @@ title: 'Remember Caesar (Play)'
 weight: 18
 ---
 
+# Remember Caesar (Play)
+
 Here is the play that revolves around the ides of March ( i.e 15th of March the day Julius Caesar was assassinated). The play “Remember Caesar” is about a pompous and proud judge who fears a life threat after he discovers a message** ‘Remember Caesar’** scribbled on a piece of paper in his pocket. He exhorts his assistant Roger to remain alert to foil the possible attempt of the assassins. He is panic-stricken and makes his assistant engage in elaborate precautionary measures. Let us read the play to know whether Lord WESTON and Roger thwart the attempt or not.
 
 ## Characters 
+
 **Lord WESTON–a judge** 
+
 **Roger Chetwynd–WESTON’s assistant** 
+
 **Lady WESTON–WESTON’s wife** 
 
 LORD WESTON is seated by the fireplace, a table of books and papers beside him, talking. Downright is seated MR ROGER CHETWYND, a thin, earnest, absent-minded, and conscientious young person. So conscientious is he that his mind, even when absent, is absent on his employer’s business. He has begun by listening to his master’s lecture, but the lure of his work has been gradually too much for him, and he is now blissfully copying from one paper on to another while the measured words flow over him, his lips forming the phrases while he writes.
@@ -327,14 +332,25 @@ Gordon Daviot (1896 – 1952) is the pen name of Miss.Elizabeth McKintosh, a Sco
 
 ## Glossary
 
+
 **twiddling my thumbs** - being idle 
+
 **Charles II** - King of England from 1660 to 1685 
+
 **foot pad** - highway-man (robber) who goes about on foot (highwaymen on horseback were more common in those days) 
+
 **game pie** - meat (of animals or birds hunted and killed) covered with pastry and baked 
+
 **lawdamussy**- an exclamation (lord have mercy)
+
 **minutiae**- minute details (often trivial) 
+
 **gingerly**- carefully 
+
 **infernal**- a concealed or disguised explosive device intended to destroy life or property 
+
 **ilex tree**- evergreen oak tree also called holm oak 
+
 **foil**- to frustrate or thwart the efforts of the assassin (i.e. to kill himself by handling that rusty pistol is a poor way of outwitting the assassin) 
+
 **excursions and alarms**- (alarms and excursions) noise and bustle (as those made on the stage to represent battles etc.)

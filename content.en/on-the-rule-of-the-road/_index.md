@@ -3,6 +3,8 @@ title: 'On the Rule of the Road'
 weight: 16
 ---
 
+# On the Rule of the Road
+
 A stout old lady was walking with her basket down the middle of a street in Petrograd to the great **confusion** of the traffic and with no small **peril** to herself. It was pointed out to her that the pavement was the place for **pedestrians**, but she replied: 'I'm going to walk where I like. We've got liberty now.' It did not occur to the dear old lady that if liberty entitled the pedestrian to walk down the middle of the road, then the end of such liberty would be universal **chaos**.
 
 Everybody would be getting in everybody else's way and nobody would get anywhere. Individual liberty would have become social **anarchy**. There is a danger of the world getting liberty-drunk in these days like the old lady with the basket, and it is just as well to remind ourselves of what the rule of the road means. It means that in order that the liberties of all may be **preserved**, the liberties of everybody must be **curtailed**. When the policeman, say, at Piccadilly Circus, steps into the middle of the road and puts out his hand, he is the symbol not of **tyranny**, but of liberty. You may not think so. You may, being in a hurry, and seeing your car pulled up by his **insolence** of office, feel that your liberty has been outraged. “How dare this fellow **interfere** with your free use of the public highway?” Then, if you are a reasonable person, you will reflect that if he did not interfere with you, he would interfere with no one, and the result would be that Piccadilly Circus would be a maelstrom that you would never cross at all. You have submitted to a curtailment of private liberty in order that you may enjoy a social order which makes your liberty a reality. 
@@ -18,22 +20,40 @@ There are a lot of people in the world, and I have to **accommodate** my liberty
 Alfred George Gardiner was a British journalist and author. He was a prolific essayist and his style and subject matter easily qualified him to be categorized as what the English would call a very civilized gentleman. His essays include ‘On Habits’, ‘On Being Tidy’ and ‘On Talk and Talkers’. ‘On the Rule of the Road’, was included in one of Gardiner’s compilations titled ‘Leaves in the Wind’ and was published under his pseudonym “Alpha of the Plough”.
 
 ## Glossary
+
 **confusion** - mess 
+
 **peril** - risk 
+
 **pedestrians** - persons who walk on the streets 
+
 **chaos** - confusion 
+
 **anarchy** - lawlessness/ rebellion 
+
 **preserved** - maintained 
+
 **curtailed** - reduced 
+
 **tyranny** – autocracy
+
 **insolence** - rudeness 
+
 **interfere** - hinder 
+
 **contract** - commitment 
+
 **indifferent** - unconcerned 
+
 **fancy** - desire 
+
 **shandy** - lemonade 
+
 **ridiculous** - comical 
+
 **conventional** - normal 
+
 **accommodate** - fit in with 
+
 **consideration** - scrutiny
 
