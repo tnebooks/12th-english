@@ -3,6 +3,8 @@ title: 'Hello'
 weight: 1
 ---
 
+Here is a story about love, devotion, sacrifice, sincerity and maturity displayed by two little boys in their actions to save the life of their sister who suffers from tuberculosis of the spine. Read the story to find out how their actions give a new hope for humanity.
+
 As we drove through the foothills of the Alps two small boys stopped us on the outskirts of Verona. They were selling wild strawberries. “Don’t buy,” warned Luigi, our cautious driver. “You will get much better fruit in Verona. Besides, these boys.....”
 
 He **shrugged** his shoulders to convey his disapproval of their shabby appearance.
@@ -80,21 +82,22 @@ She paused, took a quick breath. “Did they give up? I do not have to answer th
 “Yes,” I agreed. “They couldn’t do it better.” 
 
 I waited outside until the boys rejoined me, and then drove them back to the city. They sat beside me, not speaking. For my part, I did not say a word–I knew they would prefer to feel that they had safely kept their secret. Yet their devotion had touched me deeply.
+
 War had not broken their spirit. Their selfless action brought a new nobility to human life, gave promise of a greater hope for human society.
 
 ## About The Author
 Archibald Joseph Cronin (1896–1981) was a Scottish novelist, dramatist and physician. A doctor by training, Cronin was one of the most renowned storytellers of the twentieth century. Many of his stories have emerged from his medical career and are noted for their narrative skill, deep social conscience and finely drawn characters. Cronin’s books were not only bestsellers but some of them (such as The Citadel and The Keys of the Kingdom) were made into successful films and were adapted for radio and television. His novella Country Doctor was adapted for a long running BBC radio and TV series.
 
 ## Glossary
-shrug - raise one’s shoulders slightly and momentarily
-tunic - a loose outer garment without sleeves
-slackened - reduced
-demeanour - appearance and behaviour
-artless - innocent, guileless
-hawk - sell things crying out loudly, going from place to place
-deserted - uninhabited, unoccupiedemigrate - take up citizenship of another country
-vexation - annoyance
-vestibule - lobby
-chatter - a series of short, quick high-pitched sounds
-intrude - enter without permission
-rubble - debris, broken bricks
+**shrug** - raise one’s **shoulders** slightly and momentarily
+**tunic** - a loose outer garment without sleeves
+**slackened** - reduced
+**demeanour** - appearance and behaviour
+**artless** - innocent, guileless
+**hawk** - sell things crying out loudly, going from place to place
+**deserted** - uninhabited, **unoccupiedemigrate** - take up citizenship of another country
+**vexation** - annoyance
+**vestibule** - lobby
+**chatter** - a series of short, quick high-pitched sounds
+**intrude** - enter without permission
+**rubble** - debris, broken bricks
