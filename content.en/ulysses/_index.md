@@ -1,6 +1,6 @@
 ---
-title: 'Hello'
-weight: 1
+title: 'Ulysses'
+weight: 2
 ---
 
 Read the poem Ulysses by Alfred Lord Tennyson, which speaks of the unquenchable thirst of the Greek hero Ulysses for travel and exploration of new vistas, until death would overpower him.
