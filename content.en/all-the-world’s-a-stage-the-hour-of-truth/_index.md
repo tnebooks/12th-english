@@ -43,7 +43,6 @@ William Shakespeare (1564-1616) was a prolific writer during the Elizabethan and
 
 ##  Glossary
 
-
 **time** - lifetime 
 
 **parts** - here, characters 
