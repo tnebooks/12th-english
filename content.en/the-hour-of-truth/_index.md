@@ -480,53 +480,12 @@ John, Baldwin’s son, an average young man of twenty-seven, is smoking a pipe a
 
 **MARSHALL**: Told the whole story. (He turns to Martha) I can only say to you what every man will be saying tomorrow: how highly I honour and respect your husband! How sincerely-
 
-**MARTHA**: (seizing his hand piteously) Please! Please! Can’t you see he’s crying? (Slowly, the curtain falls.) - (slightly adapted)
+**MARTHA**: (seizing his hand piteously) Please! Please! Can’t you see he’s crying? (Slowly, the curtain falls.) 
+                            - (slightly adapted)
 
 
 
 ## About The Author
 
-Percival Wilde (1887 – 1953) was an American author and playwright. He wrote novels, short stories and one-act plays. He also authored a textbook on the theatre arts. Native to New York City, Wilde graduated from Columbia University in 1906, and worked for a time as a banker. He began writing plays in 1912. Wilde’s plays were especially popular in the Little Theatre Movement. Percival Wilde chose to portray the values of life in his plays, throwing light on a specific trait of an individual. His one-act play The Hour of Truth is a testimony to his craftsmanship where the three classical unities of time, place and action are observed. The climax of the play develops rapidly and ends with a pleasant surprise.
+**Percival Wilde (1887 – 1953)** was an American author and playwright. He wrote novels, short stories and one-act plays. He also authored a textbook on the theatre arts. Native to New York City, Wilde graduated from Columbia University in 1906, and worked for a time as a banker. He began writing plays in 1912. Wilde’s plays were especially popular in the Little Theatre Movement. Percival Wilde chose to portray the values of life in his plays, throwing light on a specific trait of an individual. His one-act play The Hour of Truth is a testimony to his craftsmanship where the three classical unities of time, place and action are observed. The climax of the play develops rapidly and ends with a pleasant surprise.
 
-## Glossary
-
-
-**wrecking** - ruining, destroying (here, bankruptcy) 
-
-**indict** - accuse or charge someone for a crime and put on trial 
-
-**testify** - give evidence as a witness in court 
-
-**governor** - the way John addresses his father 
-
-**go on the stand** - testify during a trial in the court of law 
-
-**smash-up** - complete collapse (insolvency) 
-
-**indignantly** - angrily 
-
-**perjure** - swear falsely 
-
-**haggle** - argue, disagree 
-
-**reckoned** - calculated 
-
-**misappropriate** - to take other’s money dishonestly for one’s own use 
-
-**nonplussed** - confused, puzzled 
-
-**baptized** - named, christened of his own 
-
-**accord** - voluntarily, without compulsion 
-
-**technicality** - a minor detail 
-
-**shams** - people who cheat others 
-
-**hypocrites** - people who put on a false appearance, pretenders 
-
-**apprehension** - fear 
-
-**buoyantly** - cheerfully 
-
-**piteously** - sympathetically
