@@ -97,32 +97,5 @@ To strive, to seek, to find, and not to yield.
 
 ## About The Author
 
-Alfred Tennyson, 1st Baron Tennyson (6 August 1809 – 6 October 1892) was a British poet. He was the Poet Laureate of Great Britain and Ireland during much of Queen Victoria’s reign and remains one of the most popular British poets. Tennyson excelled at penning short lyrics, such as “Break, Break, Break”, “The Charge of the Light Brigade”, “Tears, Idle Tears”, and “Crossing the Bar”. He wrote verses on classical mythology such as Ulysses, Idylls of the King and Tithonus. Tennyson’s use of the musical qualities of words to emphasise his rhythms and meanings is sensitive. 
-
-## Glossary
-
-**drink life to the lees** – drink to the very last drop; here ‘live life to the fullest’ 
-
-**scudding** – moving rapidly because of the wind 
-
-**Hyades** – a group of stars in the constellation Taurus often associated with rain 
-
-**vext** – (past tense of ‘vex’) upset 
-
-**to rust unburnish’d** – to let go waste, without being used 
-
-**three suns** – three long years 
-
-**Telemachus** – son of Ulysses 
-
-**smite** – strike
-
-**furrow** – mark made in the water by the ship
-
-**baths** – outer ocean or river that the Greeks believed to surround the flat earth
-
-**Happy Isles** – a fortunate island situated in the Atlantic Ocean, popularly known as Greek Paradise
-
-**Achilles** – the greatest of Greek warriors (as an infant his mother dipped into the river Styx, which made him invulnerable everywhere but the feet by which she held him)
-
+**Alfred Tennyson, 1st Baron Tennyson (6 August 1809 – 6 October 1892)** was a British poet. He was the Poet Laureate of Great Britain and Ireland during much of Queen Victoria’s reign and remains one of the most popular British poets. Tennyson excelled at penning short lyrics, such as “Break, Break, Break”, “The Charge of the Light Brigade”, “Tears, Idle Tears”, and “Crossing the Bar”. He wrote verses on classical mythology such as Ulysses, Idylls of the King and Tithonus. Tennyson’s use of the musical qualities of words to emphasise his rhythms and meanings is sensitive. 
 
