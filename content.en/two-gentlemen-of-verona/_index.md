@@ -16,6 +16,8 @@ One boy had on a worn jersey and cut-off khaki pants; the other a shortened army
 Next morning, coming out of our hotel, we saw our friends bent over shoe shine boxes beside the fountain in the 
 public square, doing brisk business.
 
+![](1.png)
+
 We watched for a few moments; then as trade **slackened** we went over. They greeted us with friendly faces. 
 
 “I thought you picked fruit for a living,” I said.” We do many things, sir,” Nicola answered seriously. He glanced at us hopefully. “Often we show visitors through the town ... to Juliet’s tomb ... and other places of interest.” 
@@ -77,6 +79,8 @@ herself been training as a singer– and they had suffered horribly from near st
 
  For months they had barely kept themselves alive in a sort of shelter they built with their own hands amidst the **rubble**. Then for three years the Germans ruled the city. The boys grew to hate the Germans. When the resistance movement began secretly to form they were among the first to join. When the war was over, and we had peace at last, they came back to their beloved sister. And they found her –suffering from tuberculosis of the spine.”
 
+![](2.png)
+
 She paused, took a quick breath. “Did they give up? I do not have to answer that question. They brought her here, persuaded us to take her into the hospital. In the twelve months she has been our patient she has made good progress. There is every hope that one day she will walk– and sing–again.”
 
 “Of course, everything is so difficult now, food so scarce and dear, we could not keep going unless we charged a fee. But every week, Lucia’s brothers have made their payment.” She added simply, “I don’t know what they do, I do not ask. Work is scarce in Verona. But whatever it is, I know they do it well.” 
@@ -88,30 +92,6 @@ I waited outside until the boys rejoined me, and then drove them back to the cit
 War had not broken their spirit. Their selfless action brought a new nobility to human life, gave promise of a greater hope for human society.
 
 ## About The Author
-Archibald Joseph Cronin (1896–1981) was a Scottish novelist, dramatist and physician. A doctor by training, Cronin was one of the most renowned storytellers of the twentieth century. Many of his stories have emerged from his medical career and are noted for their narrative skill, deep social conscience and finely drawn characters. Cronin’s books were not only bestsellers but some of them (such as The Citadel and The Keys of the Kingdom) were made into successful films and were adapted for radio and television. His novella Country Doctor was adapted for a long running BBC radio and TV series.
 
-## Glossary
+**Archibald Joseph Cronin (1896–1981)** was a Scottish novelist, dramatist and physician. A doctor by training, Cronin was one of the most renowned storytellers of the twentieth century. Many of his stories have emerged from his medical career and are noted for their narrative skill, deep social conscience and finely drawn characters. Cronin’s books were not only bestsellers but some of them (such as The Citadel and The Keys of the Kingdom) were made into successful films and were adapted for radio and television. His novella Country Doctor was adapted for a long running BBC radio and TV series.
 
-**shrug** - raise one’s **shoulders** slightly and momentarily
-
-**tunic** - a loose outer garment without sleeves
-
-**slackened** - reduced
-
-**demeanour** - appearance and behaviour
-
-**artless** - innocent, guileless
-
-**hawk** - sell things crying out loudly, going from place to place
-
-**deserted** - uninhabited, **unoccupiedemigrate** - take up citizenship of another country
-
-**vexation** - annoyance
-
-**vestibule** - lobby
-
-**chatter** - a series of short, quick high-pitched sounds
-
-**intrude** - enter without permission
-
-**rubble** - debris, broken bricks
