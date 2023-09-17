@@ -71,38 +71,3 @@ May Love defend thee from **oblivion’s** curse.
 **Toru Dutt (1856 - 1877)** was a Bengali poet from the Indian subcontinent, who wrote in English and French. She was the third daughter of the family. The Dutt family was a family of distinguished intellectuals and poets. She also had the advantage of being taught by excellent English tutors at home and later on of the long stay in Europe and England. Toru, with all her exposure to and involvement in Western life and culture loved the land of her birth and remained thoroughly Indian in her consciousness and sensibility. Besides her well-known collection of poems with the title ‘Ancient Ballads’ and ‘Legends of Hindustan’ (1882) she has to her credit a volume of poems in French titled ‘Sheaf Gleaned in French Fields’ (1875). ‘Our Casuarina Tree’, the most wellknown of Toru’s poems, was included in her ‘Miscellaneous Poems’.
 
 
-## Glossary
-
-
-**gallantly** - bravely or heroically 
-
-**repose** - a state of rest 
-
-**casement** - a type of window that is fixed on one side and opens like a door 
-
-**baboon** - a type of large monkey found in Africa and Asia 
-
-**kokilas** - a type of bird similar to the cuckoo 
-
-**wend** - stroll hoar - white frost deposits on the tree 
-
-**enmassed** - amassed 
-
-**shingle** - rocky 
-
-**wraith** - apparition 
-
-**tranced** - dreamy condition, hypnotised 
-
-**sublime** - glorious, grand 
-
-**fain** - eagerly 
-
-**consecrate** - to officially make something holy 
-
-**lay** - amateur 
-
-**rehearse** - repeat 
-
-**oblivion** - a state of forgetfulness
-
