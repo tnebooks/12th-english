@@ -33,7 +33,11 @@ LORD WESTON is seated by the fireplace, a table of books and papers beside him, 
 
 **ROGER**: The lack of it greatly hinders. It holds up my work, you see. And at this most interesting point…. (His glance goes longingly to his desk.) 
 
-**WESTON**: That, of course, is a different matter. I see no reason why you should not take a walk to Mr.Clay’s in the afternoon if the weather is fine. I am relieved that your thoughts are on sober matters, as befits a rising young man. Diligence, courage, and attention to detail: these are the three. Without an orderly mind no man can hope (ROGER has gone back to his work) to excel in any of the learned professions. (He has found a scrap of paper, rather crushed, in his pocket and smooths its out, uninterestedly, to make a rough spill). Detail, my good Roger, attention to detail. That is the beginning of greatness. That is the…..(reading automatically and with some difficulty what is written on the scrap of paper)**‘Remember Caesar’**. (Repeating, with vague interest. He turns the paper back and forth, at a loss. And then a new idea occurs to him, a rather horrible idea. To ROGER) What is the date to-day? (As ROGER, buried again in his work, does not answer) Roger! I said, what day of the month is it? 
+**WESTON**: That, of course, is a different matter. I see no reason why you should not take a walk to Mr.Clay’s in the afternoon if the weather is fine. I am relieved that your thoughts are on sober matters, as befits a rising young man. Diligence, courage, and attention to detail: these are the three. Without an orderly mind no man can hope (ROGER has gone back to his work) to excel in any of the learned professions. (He has found a scrap of paper, rather crushed, in his pocket and smooths its out, uninterestedly, to make a rough spill). Detail, my good Roger, attention to detail. That is the beginning of greatness. That is the…..(reading automatically and with some difficulty what is written on the scrap
+
+![](25.png)
+
+ of paper)**‘Remember Caesar’**. (Repeating, with vague interest. He turns the paper back and forth, at a loss. And then a new idea occurs to him, a rather horrible idea. To ROGER) What is the date to-day? (As ROGER, buried again in his work, does not answer) Roger! I said, what day of the month is it? 
 
 **ROGER** (Hardly pausing): It is the fifteenth, my lord.
 
@@ -328,29 +332,6 @@ Tuesday at Hampton, my lord. He was to come to see you this morning about rose t
 
 ## About The Author
 
-Gordon Daviot (1896 – 1952) is the pen name of Miss.Elizabeth McKintosh, a Scottish born novelist and playwright. She served educational institutions in England and Scotland as a physical education instructor and soon took to writing novels under another pseudonym Josephine Tey.
-
-## Glossary
+**Gordon Daviot (1896 – 1952)** is the pen name of Miss.Elizabeth McKintosh, a Scottish born novelist and playwright. She served educational institutions in England and Scotland as a physical education instructor and soon took to writing novels under another pseudonym Josephine Tey.
 
 
-**twiddling my thumbs** - being idle 
-
-**Charles II** - King of England from 1660 to 1685 
-
-**foot pad** - highway-man (robber) who goes about on foot (highwaymen on horseback were more common in those days) 
-
-**game pie** - meat (of animals or birds hunted and killed) covered with pastry and baked 
-
-**lawdamussy**- an exclamation (lord have mercy)
-
-**minutiae**- minute details (often trivial) 
-
-**gingerly**- carefully 
-
-**infernal**- a concealed or disguised explosive device intended to destroy life or property 
-
-**ilex tree**- evergreen oak tree also called holm oak 
-
-**foil**- to frustrate or thwart the efforts of the assassin (i.e. to kill himself by handling that rusty pistol is a poor way of outwitting the assassin) 
-
-**excursions and alarms**- (alarms and excursions) noise and bustle (as those made on the stage to represent battles etc.)
