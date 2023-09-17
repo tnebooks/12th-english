@@ -58,24 +58,10 @@ He will be lonely enough\
 to have time for the work\
 he knows as his own. 
 
-## About Th e Author
-“Poetry is the opening and closing of a door, leaving those who look through to guess about what was seen during a moment.” - Carl Sandburg
+## About The Author
+“Poetry is the opening and closing of a door, leaving those who look through to guess about what was seen during a moment.”
+                                  - Carl Sandburg
 
 Sandburg was born in Galesburg, Illinois, to parents of Swedish ancestry. Carl August Sandburg (January 6, 1878 – July 22, 1967) was an American poet, writer, and editor. He won three Pulitzer Prizes: two for his poetry and one for his biography of Abraham Lincoln. During his lifetime, Sandburg was widely regarded as “a major figure in contemporary literature”, especially for volumes of his collected verse, including Chicago Poems (1916), Cornhuskers (1918), and Smoke and Steel (1920). He enjoyed unrivalled appeal as a poet in his day, perhaps because the breadth of his experiences connected him with so many strands of American life, and at his death in 1967, President Lyndon B. Johnson observed that “Carl Sandburg was more than the voice of America, more than the poet of its strength and genius. He was America.”
 
-## Glossary
 
-
-**humdrum monotony** - boring routine 
-
-**soft loam** - fertile soil 
-
-**lashes** - whips 
-
-**thwarted** - frustrated 
-
-**white lies** - lies told to avoid hurting one’s feelings 
-
-**quest of lucre** - money gained in a dishonourable way 
-
-**resenting** - disliking
