@@ -46,6 +46,8 @@ Aksionov tried to answer, but could hardly utter a word, and only **stammered**:
 
 Aksionov swore he had not done it; that he had not seen the merchant after they had had tea together; that he had no money except eight thousand rubles of his own, and that the knife was not his. But his voice was broken, his face pale, and he trembled with fear as though he went guilty.
 
+![](3.png)
+
 The police-officer ordered the soldiers to bind Aksionov and to put him in the cart. As they tied his feet together and flung him into the cart, Aksionov crossed himself and wept. His money and goods were taken from him, and he was sent to the nearest town and imprisoned there. Enquiries as to his character were made in Vladimir. The merchants and other inhabitants of that town said that in former days he used to drink and waste his time, but that he was a good man. Then the trial came on: he was charged with murdering a merchant from Ryazan, and robbing him of twenty thousand rubles.
 
 His wife was in **despair**, and did not know what to believe. Her children were all quite small; one was a baby at her breast. Taking them all with her, she went to the town where her husband was in jail. At first she was not allowed to see him; but after much begging, she obtained permission from the officials, and was taken to him. When she saw her husband in prison-dress and in chains, shut up with thieves and criminals, she fell down, and did not come to her senses for a long time. Then she drew her children to her, and sat down near him. She told him of things at home, and asked about what had happened to him. He told her all, and she asked, “What can we do now?”
@@ -69,6 +71,8 @@ Aksionov was condemned to be **flogged** and sent to the mines. So he was flogge
 For twenty-six years Aksionov lived as a convict in Siberia. His hair turned white as snow, and his beard grew long, thin, and grey. All his **mirth** went; he stooped; he walked slowly, spoke little, and never laughed, but he often prayed. 
 
 In prison Aksionov learnt to make boots, and earned a little money, with which he bought The Lives of the Saints. He read this book when there was light enough in the prison; and on Sundays in the prison-church he read the lessons and sang in the choir; for his voice was still good.
+
+![](4.png)
 
 The prison authorities liked Aksionov for his meekness, and his fellow-prisoners respected him: they called him “Grandfather,” and “The Saint.” When they wanted to petition the prison authorities about anything, they always made Aksionov their spokesman, and when there were quarrels among the prisoners they came to him to put things right, and to judge the matter. 
 
@@ -122,6 +126,8 @@ Aksionov trembled with anger as he looked at his enemy. He drew his hand away, s
 
 Next day, when the convicts were led out to work, the convoy soldiers noticed that one or other of the prisoners emptied some earth out of his boots. The prison was searched and the tunnel found. The Governor came and questioned all the prisoners to find out who had dug the hole. They all denied any knowledge of it. Those who knew would not betray Makar Semyonich, knowing he would be flogged almost to death. At last the Governor turned to Aksionov whom he knew to be a just man, and said:
 
+![](5.png)
+
 “You are a truthful old man; tell me, before God, who dug the hole?”
 
 Makar Semyonich stood as if he were quite unconcerned, looking at the Governor and not so much as glancing at Aksionov. Aksionov’s lips and hands trembled, and for a long time he could not utter a word. He thought, “Why should I screen him who ruined my life? Let him pay for what I have suffered. But if I tell, they will probably flog the life out of him, and maybe I suspect him wrongly. And, after all, what good would it be to me?” 
@@ -156,32 +162,7 @@ In spite of what Aksionov had said, Makar Semyonich confessed his guilt. But whe
 
 ## About The Author
 
-Leo Tolstoy was born on September 9, 1828, in Tula Province, Russia. He is best known for the novels War and Peace (1869) and Anna Karenina (1877), often cited as pinnacles of realist fiction. He first achieved literary acclaim in his twenties with his semi-autobiographical trilogy, Childhood, Boyhood, and Youth and Sevastopol Sketches, based upon his experiences in the Crimean War. Tolstoy’s fiction includes dozens of short stories and several novellas such as The Death of Ivan Ilyich (1886), Family Happiness, and Hadji Murad. He also wrote plays and numerous philosophical essays. Tolstoy died on November 20, 1910 in Astapovo, Russia.
-
-## Glossary
+**Leo Tolstoy was born on September 9, 1828,** in Tula Province, Russia. He is best known for the novels War and Peace (1869) and Anna Karenina (1877), often cited as pinnacles of realist fiction. He first achieved literary acclaim in his twenties with his semi-autobiographical trilogy, Childhood, Boyhood, and Youth and Sevastopol Sketches, based upon his experiences in the Crimean War. Tolstoy’s fiction includes dozens of short stories and several novellas such as The Death of Ivan Ilyich (1886), Family Happiness, and Hadji Murad. He also wrote plays and numerous philosophical essays. Tolstoy died on November 20, 1910 in Astapovo, Russia.
 
 
-**go on a spree** - indulging in something actively in an unrestrained way 
-
-**porch** - portico 
-
-**samovar** - a Russian metal urn for making tea 
-
-**troika(in olden Russia)** - a cart pulled by a team of three horses
-
-**stammer** - to speak haltingly, fumble for words 
-
-**betray** - fail, let one down 
-
-**despair** - hopelessness 
-
-**downcast** - depressed flog - to beat with a whip or stick 
-
-**mirth** - cheerfulness 
-
-**sledge** - a vehicle pulled by horses for transportation on snow 
-
-**wretched** - dejected 
-
-**vengeance** - revenge
 
