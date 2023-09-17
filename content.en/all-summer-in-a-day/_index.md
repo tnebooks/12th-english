@@ -7,6 +7,8 @@ weight: 15
 
 Can you imagine a day without the Sun? Here is a Science Fiction Story that explores the theme of life on Venus, the other Planet, which as of today is not a possibility.
 
+![](19.png)
+
 “Ready?”\
 “Ready.”\
 “Now?”\
@@ -109,6 +111,8 @@ But they were running and turning their faces up to the sky and feeling the sun 
 
 “Much, much better!”
 
+![](20.png)
+
 They stopped running and stood in the great jungle that covered Venus, that grew and never stopped growing, **tumultuously**, even as you watched it. It was a nest of **octopi**, clustering up great arms of flesh like weed, wavering, flowering in this brief spring. It was the colour of rubber and ash, this jungle, from the many years without sunlight was the colour of stones and white cheeses and ink, and it was the colour of the moon. 
 
 The children lay out, laughing, on the jungle mattress, and heard it sigh and squeak under them **resilient** and alive. They ran among the trees, they slipped and fell, they pushed each other, they played hide-and-seek and tag, but most of all they **squinted** at the sun until tears ran down their faces; they put their hands up to that yellowness and that amazing blueness and they breathed of the fresh, fresh air and listened and listened to the silence which suspended them in a blessed sea of no sound and no motion. They looked at everything and savoured everything. Then, wildly, like animals escaped from their caves, they ran and ran in shouting circles. They ran for an hour and did not stop running. 
@@ -162,55 +166,5 @@ They unlocked the door, even more slowly, and let Margot out.
 
 ## About The Author
 
-Ray Douglas Bradbury (August 22, 1920 – June 5, 2012) was an American author and screenwriter. He worked in a variety of genres, including fantasy, science fiction, horror, and fiction. Widely regarded as the most important figure in the development of science fiction as a literary genre, Ray Bradbury’s works evoke the themes of racism, censorship, technology, nuclear war, humanistic values and the importance of imagination. Ray Bradbury is well-known for his incredibly descriptive style. He employs figurative language (mostly similes, metaphors, and personification) throughout the novel and enriches his story with symbolism. On April 16, 2007, Bradbury received a special citation from the Pulitzer Prize jury “for his distinguished, prolific, and deeply influential career as an unmatched author of science fiction and fantasy.” Bradbury also wrote and consulted on screenplays and television scripts, including Moby Dick and It Came from Outer Space. Many of his works were adapted to comic book, television, and film formats.
-
-## Glossary
-
-**weeds** - unwanted wild plants
-
-**Peering** - looking 
-
-**concussion** - confusion for a short time
-
-**tidal waves** - large ocean waves
-
-**slackening** - gradually slowing down
-
-**shove** - rough push
-
-**Ohio** - a mid western state of the US
-
-**patterning** - regular
-
-**clutch** - hold tightly
-
-**savagely** - aggressively
-
-**whispered** - spoke in a very quiet and low voice
-
-**predict** - anticipate
-
-**surged** - moved suddenly
-
-**slammed** - banged
-
-**muffled** - muted
-
-**avalanche** - snow slide
-
-**repercussions** - unwelcomed effects
-
-**tremble/ tremor**- shake
-
-**spell** - magical situation
-
-**tumultuously** - disruptively
-
-**octopi** - plural of octopus
-
-**resilient** - recover from difficult conditions
-
-**squinted** - looked
-
-**solemn** - serious
+**Ray Douglas Bradbury (August 22, 1920 – June 5, 2012)** was an American author and screenwriter. He worked in a variety of genres, including fantasy, science fiction, horror, and fiction. Widely regarded as the most important figure in the development of science fiction as a literary genre, Ray Bradbury’s works evoke the themes of racism, censorship, technology, nuclear war, humanistic values and the importance of imagination. Ray Bradbury is well-known for his incredibly descriptive style. He employs figurative language (mostly similes, metaphors, and personification) throughout the novel and enriches his story with symbolism. On April 16, 2007, Bradbury received a special citation from the Pulitzer Prize jury “for his distinguished, prolific, and deeply influential career as an unmatched author of science fiction and fantasy.” Bradbury also wrote and consulted on screenplays and television scripts, including Moby Dick and It Came from Outer Space. Many of his works were adapted to comic book, television, and film formats.
 
