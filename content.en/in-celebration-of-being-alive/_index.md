@@ -23,6 +23,8 @@ We all know that Dr. Christiaan Barnard was the first doctor to perform a heart 
 
 8. What happened there that morning was that a nurse had left a breakfast trolley unattended. And very soon this trolley was commandeered by an **intrepid** crew of two – a driver and a mechanic. The mechanic provided motor power by galloping along behind the trolley with his head down, while the driver, seated on the mower deck, held on with one hand and steered by scraping his foot on the floor. The choice of roles was easy because the mechanic was totally blind and the driver had only one arm.
 
+![](12.png)
+
 9. They put on quite a show that day. Judging by the laughter and shouts of encouragement from the rest of the patients, it was a much better entertainment than anything anyone puts on at the Indianapolis 500 car race. There was a grand **finale** of scattered plates and silverware before the nurse and ward sister caught up with them, scolded them and put them back to bed. 
 
 10. Let me tell you about these two. The mechanic was all of seven years old. One night, when his mother and father were drunk, his mother threw a lantern at his father, missed and the lantern broke over the child’s head and shoulders. He suffered severe third-degree burns on the upper part of his body, and lost both his eyes. At the time of the Grand Prix, he was a walking horror, with a **disfigured** face and long flap of skin hanging from the side of his neck to his body. As the wound healed around his neck, his lower jaw became gripped in a mass of fibrous tissue. The only way this little boy could open his mouth was to raise his head. When I stopped by to see him after the race, he said, “You know, we won.” And he was laughing. 
@@ -36,43 +38,6 @@ We all know that Dr. Christiaan Barnard was the first doctor to perform a heart 
 
 ## About The Author
 
-Christiaan Neethling Barnard was born in rural South Africa in 1922 to poor parents as their fourth child. He evinced great interest in his academics and was determined to pursue medicine, after the loss of his brother to a cardiac ailment. He won many scholarships and pursued his higher studies specializing in cardiac surgery. As a cardiac surgeon, Barnard focussed on congenital and complicated cardiac conditions for which there was no cure at that time. After experimenting with heart transplantation on animals, he performed the world’s first human-to-human heart transplant in the year 1967. He gained worldwide recognition and went on to develop many surgery techniques, which are being adopted till date. Barnard has penned fourteen books and 235 scientific articles that have been published in reputed journals. Some of his books are, ‘One Life’, ‘50 Ways to a Healthy Heart’, ‘The Best Medicine’ and ‘The Faith’. A pioneer in cardiac surgery, he obtained a Doctorate in Medicine from the University of Cape Town. This was followed by 11 honorary doctorates, bestowed upon him by universities all over the world. He has also received 36 International Awards. In his late years, he established the Christiaan Barnard Foundation to serve and promote the cause of underprivileged children throughout the world and died at the age of 78 in the year 2001.
-
-## Glossary
+**Christiaan Neethling Barnard** was born in rural South Africa in 1922 to poor parents as their fourth child. He evinced great interest in his academics and was determined to pursue medicine, after the loss of his brother to a cardiac ailment. He won many scholarships and pursued his higher studies specializing in cardiac surgery. As a cardiac surgeon, Barnard focussed on congenital and complicated cardiac conditions for which there was no cure at that time. After experimenting with heart transplantation on animals, he performed the world’s first human-to-human heart transplant in the year 1967. He gained worldwide recognition and went on to develop many surgery techniques, which are being adopted till date. Barnard has penned fourteen books and 235 scientific articles that have been published in reputed journals. Some of his books are, ‘One Life’, ‘50 Ways to a Healthy Heart’, ‘The Best Medicine’ and ‘The Faith’. A pioneer in cardiac surgery, he obtained a Doctorate in Medicine from the University of Cape Town. This was followed by 11 honorary doctorates, bestowed upon him by universities all over the world. He has also received 36 International Awards. In his late years, he established the Christiaan Barnard Foundation to serve and promote the cause of underprivileged children throughout the world and died at the age of 78 in the year 2001.
 
 
-**consideration** – careful thought 
-
-**prevalent** – common 
-
-**cripples** – people with some disability preventing them from performing certain normal functions 
-
-**agony** – extreme physical and mental suffering 
-
-**perforated** – torn and damaged with holes 
-
-**ennobles** – (figurative use) makes dignified, morally noble 
-
-**thrash around (idiom) ** – to move about restlessly 
-
-**sophisticated** – (here) well-advanced 
-
-**mutilating surgery** – surgery involving removal of tissue even at the risk of worsening of the patient’s condition 
-
-**Grand Prix** – (here) one of several international motorracing events 
-
-**solace** – comfort or consolation in times of grief or pain 
-
-**intrepid** – bold and daring 
-
-**finale** – climax or an exciting end 
-
-**disfigured** – spoiled or marred in appearance 
-
-**malignant** – (here, of diseases) very harmful to life 
-
-**tumour** – diseased growth in some part of the body 
-
-**amputated** – cut off by surgical operation 
-
-**profound** – very great
