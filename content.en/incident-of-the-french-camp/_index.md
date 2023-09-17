@@ -52,39 +52,6 @@ Smiling, the boy fell dead.
 
 ## About The Author
 
-Robert Browning (7 May 1812–12 December 1889) was an English poet and playwright whose mastery of the dramatic monologue made him one of the foremost, Victorian poets. He was born in Camberwell, a suburb of London on 7 May 1812. He was educated mainly at home, but he attended a short course in Greek at London University. His poems are known for their irony, characterisation, dark humour, social commentary, historical settings and challenging vocabulary and syntax. He developed a unique form of conversational, unrhythmic verse. The collection ‘Dramatis Personae’ and the book-length epic poem “The Ring and the Book” made him a leading British poet. By 1881 in recognition of his outstanding contribution to literature, a literary society called Browning Society was established.
+**Robert Browning (7 May 1812–12 December 1889)** was an English poet and playwright whose mastery of the dramatic monologue made him one of the foremost, Victorian poets. He was born in Camberwell, a suburb of London on 7 May 1812. He was educated mainly at home, but he attended a short course in Greek at London University. His poems are known for their irony, characterisation, dark humour, social commentary, historical settings and challenging vocabulary and syntax. He developed a unique form of conversational, unrhythmic verse. The collection ‘Dramatis Personae’ and the book-length epic poem “The Ring and the Book” made him a leading British poet. By 1881 in recognition of his outstanding contribution to literature, a literary society called Browning Society was established.
 
-
-## Glossary
-
-
-**stormed** - sudden violent attack 
-
-**Ratisbon** - (German Regensburg) a city in Austria 
-
-**mound** - hillock/ hill 
-
-**out-thrust** - extended forward 
-
-**fancy** - imagine 
-
-**prone** - inclined downward 
-
-**oppressive** - harsh, domineering 
-
-**mused** - thought deeply 
-
-**Lannes** - Duke of Montebello, a general in Napoleon’s army. 
-
-**bridle** - the head gear used to control a horse 
-
-**compressed** - pressed together 
-
-**anon** - soon 
-
-**flag-bird** - the imperial eagle on the French flag 
-
-**perched** - sat on, rested 
-
-**sheathes** - covers
 
