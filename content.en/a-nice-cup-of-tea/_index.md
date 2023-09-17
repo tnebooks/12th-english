@@ -23,7 +23,11 @@ Fourthly, the tea should be strong. For a pot holding a quart, if you are going 
 
 Fifthly, the tea should be put straight into the pot. No strainers, muslin bags or other devices to imprison the tea. In some countries teapots are fitted with little **dangling** baskets under the **spout** to catch the stray leaves, which are supposed to be harmful. Actually one can swallow tea-leaves in considerable quantities without ill effect, and if the tea is not loose in the pot it never infuses properly.
 
-Sixthly, one should take the teapot to the kettle and not the other way about. The water should be actually boiling at the moment of impact, which means that one should keep it on the flame while one pours. Some people add that one should only use water that has been freshly brought to the boil, but I have never noticed that it makes any difference.
+Sixthly, one should take the teapot to the kettle and not the other way about. The water should be actually boiling at the moment of impact, which means that one should keep it on the flame while one pours. Some people add that one should only use water that has been freshly 
+
+![](6.png)
+
+brought to the boil, but I have never noticed that it makes any difference.
 
 Seventhly, after making the tea, one should stir it, or better, give the pot a good shake, afterwards allowing the leaves to settle.
 
@@ -43,33 +47,5 @@ These are not the only controversial points to arise in connexion with tea drink
 
 ## About The Author
 
-Eric Arthur Blair (25 June 1903–21 January 1950), better known by his pen name George Orwell, was an English novelist, essayist, journalist and critic whose work is marked by clear prose, awareness of social iniquity, opposition to totalitarianism and candid support of democratic socialism. Orwell wrote literary criticism, poetry, fiction and polemical journalism. He is best known for the allegorical novella Animal Farm(1945) and the dystopian novel Nineteen Eighty-Four (1949). In 2008, The Times ranked him second on a list of “The 50 greatest British writers since 1945”
+**Eric Arthur Blair (25 June 1903–21 January 1950),** better known by his pen name George Orwell, was an English novelist, essayist, journalist and critic whose work is marked by clear prose, awareness of social iniquity, opposition to totalitarianism and candid support of democratic socialism. Orwell wrote literary criticism, poetry, fiction and polemical journalism. He is best known for the allegorical novella Animal Farm(1945) and the dystopian novel Nineteen Eighty-Four (1949). In 2008, The Times ranked him second on a list of “The 50 greatest British writers since 1945”
 
-## Glossary
-
-
-**curious** - interesting 
-
-**controversial** - arguable, disputable 
-
-**virtues** - admirable qualities 
-
-**despised**- hated 
-
-**stimulation** - excitement 
-
-**optimistic** - positive, hopeful 
-
-**cauldron**- a big pot used for boiling 
-
-**rationing**- restricting the consumption of a scarce commodity during war 
-
-**dangling** - hanging freely, suspended
-
-**spout** - the pipe-like opening in a teapot through which tea is poured out 
-
-**liable** - responsible 
-
-**mysterious**- incomprehensible 
-
-**etiquette** - socially acceptable behaviour
