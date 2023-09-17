@@ -43,43 +43,5 @@ And we had no arms to fight it with.
 
 ## About The Author
 
-Edwin Muir (1887-1959) was a renowned Scottish poet, novelist, translator and critic. He was remembered for his vivid poetry. He began writing poetry at a relatively old age, and over the course of several years worked out an individual, philosophical style for which he gained recognition later in his life. First Poems and Chorus of the Newly Dead contain Muir’s initial attempts. Muir’s later collections include Variations on a Time Theme, The Narrow Place, The Voyage and Other Poems, The Labyrinth, and One Foot in Eden.
-
-## Glossary
-
-**turret wall** - a small tower on top of a castle 
-
-**mowers** - people who trim grass and level the lawns 
-
-**provender** - food 
-
-**towering battlements** - tall towers with openings to shoot the enemies 
-
-**tier** - one above the other 
-
-**friendly allies** - helpful or supporting nations or armed forces 
-
-**foothold** - advantageous position 
-
-**quick** – alive
-
-**bait** - something intended to entice someone to do something 
-
-**wicked** - evil or morally wrong 
-
-**wicket gate** - a small gate 
-
-**wizened warder** - an aged or old guard 
-
-**maze** - a winding , intricate confusing path 
-
-**treacherous** - disloyal 
-
-**groan** - lament, cry 
-
-**citadel** - a safe and strong fort 
-
-**overthrown** - conquered, defeated 
-
-**maintain** - believe
+**Edwin Muir (1887-1959)** was a renowned Scottish poet, novelist, translator and critic. He was remembered for his vivid poetry. He began writing poetry at a relatively old age, and over the course of several years worked out an individual, philosophical style for which he gained recognition later in his life. First Poems and Chorus of the Newly Dead contain Muir’s initial attempts. Muir’s later collections include Variations on a Time Theme, The Narrow Place, The Voyage and Other Poems, The Labyrinth, and One Foot in Eden.
 
