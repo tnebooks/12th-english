@@ -39,46 +39,7 @@ Is **second childishness** and mere **oblivion**;\
 
 ## About The Author 
 
-William Shakespeare (1564-1616) was a prolific writer during the Elizabethan and Jacobean ages of British theatre (sometimes called the English Renaissance). Shakespeare’s plays are perhaps his most enduring legacy, but they are not the only things he wrote. Shakespeare’s poems remain popular to this day. Shakespeare’s rich and diverse works have spawned countless adaptations across multiple genres and cultures. His writings have been compiled in various iterations of The Complete Works of William Shakespeare, which include all his plays, sonnets, and other poems. William Shakespeare continues to be one of the most important literary figures of the English language.
+**William Shakespeare (1564-1616)** was a prolific writer during the Elizabethan and Jacobean ages of British theatre (sometimes called the English Renaissance). Shakespeare’s plays are perhaps his most enduring legacy, but they are not the only things he wrote. Shakespeare’s poems remain popular to this day. Shakespeare’s rich and diverse works have spawned countless adaptations across multiple genres and cultures. His writings have been compiled in various iterations of The Complete Works of William Shakespeare, which include all his plays, sonnets, and other poems. William Shakespeare continues to be one of the most important literary figures of the English language.
 
-##  Glossary
 
-**time** - lifetime 
 
-**parts** - here, characters 
-
-**ages** - here, periods of time 
-
-**mewling** - a small weak noise that a cat makes 
-
-**puking** - vomiting 
-
-**whining** - expressing unhappiness 
-
-**creeping** - walking slowly 
-
-**satchel** - a shoulder bag 
-
-**furnace** - place where fi re is made 
-
-**woeful** - unhappy 
-
-**oaths** - promises 
-
-**pard** - a large cat, such as a leopard
-
-**justice**- here, a judge, someone very respected 
-
-**saws**- sayings 
-
-**pouch**- a small bag for carrying money 
-
-**hose** - tights, thin trousers that men wore in Shakespeare's time 
-
-**a world too wide** - much too big 
-
-**pipes** - a high 
-
-**sound second childishness** - being like a child again 
-
-**Sans** - without
