@@ -22,6 +22,9 @@ As the sun set, Hillary and Tenzing crawled into the tent, put on all their warm
 
 3.	. At 6.30 a.m. we crawled out of that tent into the snow, hoisted our 30 lb. of oxygen gear on to our backs, connected up our masks and turned on the valves to bring life-giving oxygen into our lungs. A few good deep breaths and we were ready to go. Still a little worried about my cold feet, I asked Tenzing to move off.
 4. Tenzing kicked steps in a long **traverse** back towards the ridge, and we reached its crest where it forms a great snow bump at about 28000 feet. From here the ridge narrowed to a knife-edge and, as my feet were now warm, I took over the lead.
+
+![Alt text](13.png)
+
 5.	The soft snow made a route on top of the ridge both difficult and dangerous, which sometimes held my weight but often gave way suddenly. After several hundred feet, we came to a tiny hollow, and found there the two oxygen bottles left on the earlier attempt by Evans and Bourdillon. I scraped the ice off the gauges and was relieved to find that they still contained several hundred litres of oxygen – enough to get us down to the South Col if used sparingly.
 6. I continued making the trail on up the ridge, leading up for the last 400 feet to the southern summit. The snow on this face was dangerous, but we persisted in our efforts to beat a trail up it. 
 7. We made frequent changes of lead. As I was stamping a trail in the deep snow, a section around me gave way and I slipped back through three or four of my steps. I discussed with Tenzing the advisability of going on, and he, although admitting that he felt unhappy about the snow conditions, and finished with his familiar phrase “Just as you wish”. 
@@ -33,7 +36,13 @@ As the sun set, Hillary and Tenzing crawled into the tent, put on all their warm
 11. We moved one at a time. I would cut a forty foot line of steps, Tenzing belaying me while I worked. Then in turn I would sink my shaft and put a few loops of the rope around it, and Tenzing, protected against a breaking step, would move up to me. Then once again as he belayed me I would go on cutting. 
 12. In a number of places the overhanging ice **cornices** were very large indeed, and in order to escape them I cut a line of steps down to where the snow met the rocks on the west. It was a great thrill to look straight down this enormous rock face and to see, 8000 feet below us, the tiny tents of Camp 4 in the Western Cwm. **Scrambling** on the rocks and cutting handholds on the snow, we were able to shuffle past these difficult portions. 
 13. On its east side was another great cornice; and running up the full forty feet of the step was a narrow crack between the cornice and the rock. Leaving Tenzing to belay me as best he could, I jammed my way into this crack. Then, kicking backwards, I sank the spikes of my crampons deep into the frozen snow behind me and levered myself off the ground.
+
+![Alt text](15.png)
+
 14. Taking advantage of every little rock hold, and all the force of knee, Belay shoulder, and arms I could muster, I literally cramponed backwards up the crack, praying that the cornice would remain attached to the rock. My progress although slow was steady. As Tenzing paid out the rope, I inched my way upwards until I could reach over the top of the rock and drag myself out of the crack on to a wide ledge.
+
+![Alt text](14.png)
+
 15. For a few moments I lay regaining my breath, and for the first time really felt the fierce determination that nothing now could stop us reaching the top. I took a firm stance on the ledge and signalled to Tenzing to come on up. As I heaved hard on the rope, Tenzing **wriggled** his way up the crack, and finally collapsed at the top like a giant fish when it has just been hauled from the sea after a terrible struggle. 
 16. The ridge continued as before: giant cornices on the right; steep rock sloped on the left. The ridge curved away to the right and we have no idea where the top was. As I cut around the back of one hump, another higher one would swing into view. Time was passing and the ridge seemed never-ending.
 17. Our original zest had now quite gone, and it was turning more into a grim struggle. I then realized that the ridge ahead, instead of rising, now dropped sharply away. I looked upwards to see a narrow snow ridge running up to a snowy summit. A few more whacks of the ice-axe in the firm snow and we stood on top. 
@@ -45,7 +54,10 @@ As the sun set, Hillary and Tenzing crawled into the tent, put on all their warm
 23. After fifteen minutes, I moved down off the summit on to our steps. Wasting no time, we **cramponed** along our tracks, spurred by the urgency of diminishing oxygen. We scrambled cautiously over the rock traverse, moved one at a time over shaky snow sections and finally cramponed up our steps and back on to the South Peak. 
 24. We were now very tired, but moved down to the two reserve cylinders on the ridge. As we were only a short distance from camp, and had a few litres of oxygen left in our own bottles, we carried the extra cylinders down, and reached our tent on its crazy platform at 2 p.m. 
 25. With a last look at the camp that had served us so well, we turned downwards with dragging feet and set ourselves to the task of safely descending the ridge to the South Col. 
-26. The time passed as in a dream. Two figures came towards us and met us a couple of hundred feet above the camp. They were George Lowe and Wilfrid Noyce, laden with hot soup and emergency oxygen. Just short of the tent my oxygen ran out. We had had enough to do the job, but by no means too much. 
+26. The time passed as in a dream. Two figures came towards us and met us a couple of hundred feet above the camp. They were George Lowe and Wilfrid Noyce, laden with hot soup and emergency oxygen. Just short of the tent my oxygen ran out. We had had enough to do the job, but by no means too much.
+
+![Alt text](16.png)
+
 27. We crawled into the tent and, with a sigh of delight, collapsed into our sleeping-bags, while the tents flapped and shook under the perpetual South Col gale.
 
 John Hunt who led the expedition states that “It was an unforgettable day.” They had climbed to the top! There were shouts of joy, handshakes and hugs for the two heroes. Their happiness and pride showed, how these men had shared in the achievement, that was brilliantly concluded by Tenzing and Hillary. The adventure was over. 
@@ -56,24 +68,5 @@ Not all adventures are exciting. Nor is adventure to be found only upon a mounta
 
 ## About The Author
 
-Sir Edmund Percival Hillary (20 July 1919 – 11 January 2008) was a New Zealand mountaineer, explorer, and philanthropist. He served in the Royal New Zealand Air Force as a navigator during World War II. Following his ascent of Everest, Hillary devoted himself to assisting the Sherpa people of Nepal through the Himalayan Trust, which he established. High Adventure, No Latitude for Error, Nothing Venture, Nothing Win, View from the Summit: The Remarkable Memoir by the First Person to Conquer Everest are some of his famous works.
+**Sir Edmund Percival Hillary (20 July 1919 – 11 January 2008)** was a New Zealand mountaineer, explorer, and philanthropist. He served in the Royal New Zealand Air Force as a navigator during World War II. Following his ascent of Everest, Hillary devoted himself to assisting the Sherpa people of Nepal through the Himalayan Trust, which he established. High Adventure, No Latitude for Error, Nothing Venture, Nothing Win, View from the Summit: The Remarkable Memoir by the First Person to Conquer Everest are some of his famous works.
 
-## Glossary
-
-**traverse** - to cross a mountain slope horizontally or diagonally; the name given to such a crossing 
-
-**rope** - links members of climbing party for safety; a party may be referred to as “a rope” 
-
-**cornice** - overhanging mass of snow or ice along a ridge, shaped like the curling crest of a wave
-
-**cwm** - an enclosed arm-chair shaped hollow situated at the head of a valley 
-
-**scrambling** - climbing hurriedly on hands and knees 
-
-**wriggle** - to move with a twist or turn 
-
-**tantalize** - tease or taunt 
-
-**cramponed** - climbing on ice wearing spike shoes
-
- 
